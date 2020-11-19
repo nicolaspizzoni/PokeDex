@@ -1,4 +1,4 @@
-# Pok-Dex
+# PokéDex
 Projeto utilizando API, JavaScript, HTML e CSS
 
 Projeto de quarentena desenvolvendo uma PokéDex, 
